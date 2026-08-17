@@ -21,9 +21,7 @@ Godot과 JSON 기반 시나리오 데이터를 활용하여
 
 ## 실행 방법
 
-1. 최신 Windows ZIP 파일을 다운로드합니다.
-2. ZIP 파일의 압축을 풉니다.
-3. `WonnimTrial_v0.1.1_windows.exe`를 실행합니다.
+1. `WonnimTrial_v0.1.1_windows.exe`를 실행합니다.
 
 ## 개발 상태
 
